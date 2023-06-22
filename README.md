@@ -13,6 +13,7 @@ I'm always excited about collaborating on interesting projects with fellow devel
 
 - GitHub: [@sudeakarcay](https://github.com/sudeakarcay)
 - Email: akarcaysude2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sudeakarcay/
 
 
  <b>Skills:</b><br>
