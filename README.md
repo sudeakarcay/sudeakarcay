@@ -26,7 +26,7 @@ I'm always excited about collaborating on interesting projects with fellow devel
 - JavaScript
 <br>
 <br>
-Thanks for stopping by and taking the time to learn a bit about me. I look forward to connecting with you and exploring the fascinating world of software development together❗
+
 
 
 
