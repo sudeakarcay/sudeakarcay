@@ -1,9 +1,9 @@
 ### Hi there I'm Sude👋
 
 
-I'm a student at Bilkent University Department of Information Systems and Technologies. This is my GitHub profile where I share my projects, experiments, and ideas with the developer community.
+I'm a senior student at Bilkent University Department of Information Systems and Technologies. This is my GitHub profile where I share my projects, experiments, and ideas with the developer community.
 
- 🌱 I'm currently learning Spring Framework
+ 🌱 I'm currently working as part-time Backend Developer at Jotform.
 
  👯 Looking to collaborate?
 
@@ -18,13 +18,12 @@ I'm always excited about collaborating on interesting projects with fellow devel
 
  <b>Skills:</b><br>
 - Java<br>
-- HTML<br>
-- CSS<br>
-- C <br>
-- SQL<br>
+- BigQuery<br>
+- MySQL<br>
+- Git<br>
+- RESTful APIs Implementation<br>
 - PHP<br>
-- JavaScript<br>
-- Spring
+- Spring Framework
 <br>
 <br>
 
